@@ -3,8 +3,8 @@
 Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
-Target role: SOC Analyst / Security Analyst
-Currently: [your role] | [City / Remote]
+Target role: GRC Analyst | IAM Engineer
+Currently: Something like a butcher [Not Cybersecurity] | Chesterfield, VA
 Contact: humphriesjarell@gmail.com · [LinkedIn Profile](http://linkedin.com/jarellhumphries)
 
 ## Investigations
