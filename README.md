@@ -10,7 +10,7 @@ Contact: humphriesjarell@gmail.com · [LinkedIn Profile](http://linkedin.com/jar
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | coming, week 1 |
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Read Here]() |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
