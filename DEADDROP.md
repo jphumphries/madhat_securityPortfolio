@@ -1,3 +1,4 @@
+f<img width="1425" height="968" alt="01_Find Resource Group" src="https://github.com/user-attachments/assets/2e87fb1a-ba4a-4b39-9949-49782adc6350" />
 # Operation Dead Deploy: Resource Group Policy Oversight
 
 ## Scenario
@@ -13,6 +14,7 @@ Live Multi-User Azure Training Tenant, Reader Access:
 1. Signed into Azure Madhat subscription
 2. Navigated to the resource group within the subscription that does not follow the proper naming convention. The established naming convention made spotting the culprit an exercise in process of elimination by sight. Also could have used the search filter if there were an excessive amount of resource groups to search through
 
+f<img width="1425" height="968" alt="01_Find Resource Group" src="https://github.com/user-attachments/assets/2e87fb1a-ba4a-4b39-9949-49782adc6350" />
 ![Resource Group](screenshots/01_Find Resource Group.png)
 
 4. Inside the target resource group is found the one resource that the intern deployed
