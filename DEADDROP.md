@@ -1,4 +1,4 @@
-# [Title, outcome-flavored: "Investigating an Identity Attack in Entra ID"]
+# Operation Dead Deploy: Resource Group Policy Oversight
 
 ## Scenario
 Madhat Labs Junior Intern used temporary contributor access credentials to create a “test environment” for the sake of a leadership presentation. 
@@ -13,7 +13,7 @@ Live Multi-User Azure Training Tenant, Reader Access:
 1. Signed into Azure Madhat subscription
 2. Navigated to the resource group within the subscription that does not follow the proper naming convention. The established naming convention made spotting the culprit an exercise in process of elimination by sight. Also could have used the search filter if there were an excessive amount of resource groups to search through
 
-![naming_discrepency](/evidence/w1_naming_discrepency.png)
+![Resource Group](/screenshots/01_Find Resource Group.png)
 
 4. Inside the target resource group is found the one resource that the intern deployed
 5. Here we take a look at the tags and find documentation that gives us bread crumbs to what happened during this incident.
